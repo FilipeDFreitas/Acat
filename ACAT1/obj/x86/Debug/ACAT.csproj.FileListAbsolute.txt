@@ -1,0 +1,9 @@
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\bin\Debug\ACAT.exe
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\bin\Debug\ACAT.pdb
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\obj\x86\Debug\ACAT.Properties.Resources.resources
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\obj\x86\Debug\ACAT.exe
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\obj\x86\Debug\ACAT.pdb
+C:\Users\home\AppData\Local\Temporary Projects\ACAT\obj\x86\Debug\ACAT.Principal.resources
